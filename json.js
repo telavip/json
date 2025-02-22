@@ -420,10 +420,9 @@ window.seriesData = {
           "20": {
             "name": "O Último Ato",
             "still_path": "https://image.tmdb.org/t/p/original/1qJ5CMO7vLvU4Hw04hVLtK5d39d.jpg"
-          }
+                    }
+                }
+            }
         }
-      }
     }
-  },  
-   
 };

@@ -1,100 +1,39 @@
 {
-    "138503": {
-        "name": "Seu Amigão da Vizinhança: Homem-Aranha",
-        "genres": [
-            "Animação",
-            "Action & Adventure",
-            "Sci-Fi & Fantasy",
-            "Comédia"
-        ],
-        "overview": "Uma série animada que segue Peter Parker em seu caminho para se tornar o Homem-Aranha no MCU, com uma jornada como nunca vimos e um estilo que celebra as raízes dos primeiros quadrinhos do personagem.",
-        "first_air_date": "2025-01-29",
-        "episode_run_time": "Desconhecido",
-        "vote_average": "8.0",
-        "number_of_seasons": 1,
-        "number_of_episodes": 10,
-        "created_by": [],
-        "production_companies": [
-            "Marvel Studios"
-        ],
-        "cast": [
-            "Hudson Thames",
-            "Kari Wahlgren",
-            "Grace Song",
-            "Eugene Byrd",
-            "Zeno Robinson",
-            "Colman Domingo"
-        ],
-        "backdrop_path": "https://image.tmdb.org/t/p/w1280/7CaXcLBWf41nHyX33DmpIpcOSg4.jpg",
-        "poster_path": "https://image.tmdb.org/t/p/w500/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
-        "seasons": [
-            {
-                "season_number": 1,
-                "name": "Temporada 1",
-                "poster_path": "https://image.tmdb.org/t/p/w92/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
-                "episode_count": 10,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "name": "Episódio 1",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/1"
-                    },
-                    {
-                        "episode_number": 2,
-                        "name": "Episódio 2",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/2"
-                    },
-                    {
-                        "episode_number": 3,
-                        "name": "Episódio 3",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/3"
-                    },
-                    {
-                        "episode_number": 4,
-                        "name": "Episódio 4",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/4"
-                    },
-                    {
-                        "episode_number": 5,
-                        "name": "Episódio 5",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/5"
-                    },
-                    {
-                        "episode_number": 6,
-                        "name": "Episódio 6",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/6"
-                    },
-                    {
-                        "episode_number": 7,
-                        "name": "Episódio 7",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/7"
-                    },
-                    {
-                        "episode_number": 8,
-                        "name": "Episódio 8",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/8"
-                    },
-                    {
-                        "episode_number": 9,
-                        "name": "Episódio 9",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/9"
-                    },
-                    {
-                        "episode_number": 10,
-                        "name": "Episódio 10",
-                        "still_path": "",
-                        "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=138503/1/10"
-                    }
-                ]
-            }
+  "1622": {
+    "name": "Exemplo de Série",
+    "genres": ["Drama", "Ação"],
+    "overview": "Descrição da série.",
+    "first_air_date": "2024-01-01",
+    "episode_run_time": 45,
+    "vote_average": 8.5,
+    "number_of_seasons": 2,
+    "number_of_episodes": 20,
+    "created_by": ["Nome do Criador"],
+    "production_companies": ["Nome da Produtora"],
+    "cast": ["Ator 1", "Ator 2", "Ator 3"],
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/caminho_da_imagem.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w500/caminho_do_poster.jpg",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "poster_path": "https://image.tmdb.org/t/p/w92/poster_temporada.jpg",
+        "episode_count": 10,
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Episódio 1",
+            "still_path": "https://image.tmdb.org/t/p/w92/thumbnail.jpg",
+            "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=1622/1/1"
+          },
+          {
+            "episode_number": 2,
+            "name": "Episódio 2",
+            "still_path": "https://image.tmdb.org/t/p/w92/thumbnail2.jpg",
+            "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=1622/1/2"
+          }
         ]
-    },
+      }
+    ]
+  }
+}

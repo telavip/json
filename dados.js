@@ -1,0 +1,39 @@
+{
+  "1622": {
+    "name": "Exemplo de Série ",
+    "genres": ["Drama", "Ação"],
+    "overview": "Descrição da série.",
+    "first_air_date": "2024-01-01",
+    "episode_run_time": 45,
+    "vote_average": 8.5,
+    "number_of_seasons": 2,
+    "number_of_episodes": 20,
+    "created_by": ["Nome do Criador"],
+    "production_companies": ["Nome da Produtora"],
+    "cast": ["Ator 1", "Ator 2", "Ator 3"],
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/caminho_da_imagem.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w500/caminho_do_poster.jpg",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "poster_path": "https://image.tmdb.org/t/p/w92/poster_temporada.jpg",
+        "episode_count": 10,
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Episódio 1",
+            "still_path": "https://image.tmdb.org/t/p/w92/thumbnail.jpg",
+            "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=1622/1/1"
+          },
+          {
+            "episode_number": 2,
+            "name": "Episódio 2",
+            "still_path": "https://image.tmdb.org/t/p/w92/thumbnail2.jpg",
+            "player_url": "https://gigaflixplayer.blogspot.com/p/player.html?id=1622/1/2"
+          }
+        ]
+      }
+    ]
+  }
+}

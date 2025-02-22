@@ -2255,4 +2255,612 @@ window.seriesData = {
       }
     }
   },
+      "246": {
+    "name": "Avatar: A Lenda de Aang",
+    "genres": [
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Aang é um menino de 12 anos que descobre ser o Avatar, mestre responsável por garantir o equilíbrio entre os quatro elementos e suas respectivas nações, mantendo o planeta em paz.",
+    "first_air_date": "2005-02-21",
+    "episode_run_time": 25,
+    "vote_average": 8.738,
+    "number_of_seasons": 3,
+    "number_of_episodes": 61,
+    "created_by": [
+      "Michael Dante DiMartino",
+      "Bryan Konietzko"
+    ],
+    "production_companies": [
+      "Nickelodeon Animation Studio",
+      "JM Animation",
+      "DR Movie",
+      "Moi Animation",
+      "Nickelodeon Productions"
+    ],
+    "cast": [
+      "Zach Tyler Eisen",
+      "Mae Whitman",
+      "Jack De Sena",
+      "Dante Basco",
+      "Jessie Flower"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/7IJhby0sfQCN5ZIIseAWCw6j3xm.jpg",
+    "seasons": {
+      "1": {
+        "name": "Livro 1: Água",
+        "poster_path": "https://image.tmdb.org/t/p/original/msWDv3MzBC4cM5fk9B0HgbKiMQ1.jpg",
+        "episodes": {
+          "1": {
+            "name": "O Garoto no Iceberg",
+            "still_path": "https://image.tmdb.org/t/p/original/cjo9ipGyKvY0j024I0iqhVhfN34.jpg"
+          },
+          "2": {
+            "name": "O Retorno do Avatar",
+            "still_path": "https://image.tmdb.org/t/p/original/m3jVDcH04qAJH0LQFN7H5rOJXEA.jpg"
+          },
+          "3": {
+            "name": "O Templo de Ar do Sul",
+            "still_path": "https://image.tmdb.org/t/p/original/bFBUv2VDtyBuilulFynsNGPINnw.jpg"
+          },
+          "4": {
+            "name": "As Guerreiras de Kyoshi",
+            "still_path": "https://image.tmdb.org/t/p/original/4VNx9JspNnWZibkkr7XydYPHh2m.jpg"
+          },
+          "5": {
+            "name": "O Rei de Omashu",
+            "still_path": "https://image.tmdb.org/t/p/original/6p6CR7ITrtaYEo0IewpFfMVowB8.jpg"
+          },
+          "6": {
+            "name": "Aprisionados",
+            "still_path": "https://image.tmdb.org/t/p/original/hVnpU1sh2vf5yG5CqpNTga8JsIz.jpg"
+          },
+          "7": {
+            "name": "Solstício de Inverno - Parte 1: O Mundo Espiritual",
+            "still_path": "https://image.tmdb.org/t/p/original/3dHFknGTv7Q9PNXiOoV9KT83vRn.jpg"
+          },
+          "8": {
+            "name": "Solstício de Inverno - Parte 2: O Avatar Roku",
+            "still_path": "https://image.tmdb.org/t/p/original/h8eRQzK7eBZGP3SyDnw8RFM5TK8.jpg"
+          },
+          "9": {
+            "name": "O Pergaminho da Dobra D'Água",
+            "still_path": "https://image.tmdb.org/t/p/original/8RGlT7WVERJ4tUO2z5EIOwcmy3t.jpg"
+          },
+          "10": {
+            "name": "Jato",
+            "still_path": "https://image.tmdb.org/t/p/original/iO4HwGe4CSySOg5n6ecAH9pf0bu.jpg"
+          },
+          "11": {
+            "name": "A Grande Divisão",
+            "still_path": "https://image.tmdb.org/t/p/original/yXln4Af5xi8jhGCXn6oWcCnG5UT.jpg"
+          },
+          "12": {
+            "name": "A Tempestade",
+            "still_path": "https://image.tmdb.org/t/p/original/3AhzvIYWwoudE5dPc319s2P8IWG.jpg"
+          },
+          "13": {
+            "name": "O Espírito Azul",
+            "still_path": "https://image.tmdb.org/t/p/original/cyD4FCLS0vaxLmHantYqMkqACh5.jpg"
+          },
+          "14": {
+            "name": "A Adivinha",
+            "still_path": "https://image.tmdb.org/t/p/original/3nCVnuQbSv645QFg3SYM9PELbOe.jpg"
+          },
+          "15": {
+            "name": "Bato da Tribo da Água",
+            "still_path": "https://image.tmdb.org/t/p/original/sBSdSLVgW6JxpYKhEQiWGbVl1Q3.jpg"
+          },
+          "16": {
+            "name": "O Desertor",
+            "still_path": "https://image.tmdb.org/t/p/original/8TlUZ7Bdk9NbwvaXJ7r7F23uQ8J.jpg"
+          },
+          "17": {
+            "name": "O Templo do Ar do Norte",
+            "still_path": "https://image.tmdb.org/t/p/original/ea6vqQarfblBWk95wmUdUjYzEzt.jpg"
+          },
+          "18": {
+            "name": "O Mestre de Dobra D'água",
+            "still_path": "https://image.tmdb.org/t/p/original/yGmwLBcQboXSRnmKpaa7utygUNt.jpg"
+          },
+          "19": {
+            "name": "O Cerco do Norte (Parte 1)",
+            "still_path": "https://image.tmdb.org/t/p/original/9jGillcXki194qzZm1LYfXNlVhz.jpg"
+          },
+          "20": {
+            "name": "O Cerco do Norte (Parte 2)",
+            "still_path": "https://image.tmdb.org/t/p/original/sVqGZedB0hAOD9tPcHIwUMz3bsy.jpg"
+          }
+        }
+      },
+      "2": {
+        "name": "Livro 2: Terra",
+        "poster_path": "https://image.tmdb.org/t/p/original/6qDHnW7DDcS61ghbPvuWngGdeC6.jpg",
+        "episodes": {
+          "1": {
+            "name": "O Estado Avatar",
+            "still_path": "https://image.tmdb.org/t/p/original/oIy3PKC460qRbiPIxNKiuVf9QSH.jpg"
+          },
+          "2": {
+            "name": "A Caverna dos Dois Amantes",
+            "still_path": "https://image.tmdb.org/t/p/original/nnXvDDSFUylD6SS7bpm1PXaNUbe.jpg"
+          },
+          "3": {
+            "name": "Retorno a Omashu",
+            "still_path": "https://image.tmdb.org/t/p/original/ryrXflY4MEKwvow1Kww607gVfzO.jpg"
+          },
+          "4": {
+            "name": "O Pântano",
+            "still_path": "https://image.tmdb.org/t/p/original/8iSkwakA54mqxcBUZtZsISnvkco.jpg"
+          },
+          "5": {
+            "name": "O Dia do Avatar",
+            "still_path": "https://image.tmdb.org/t/p/original/rCttnlrBm4A8e8Vt7strjXYkCPS.jpg"
+          },
+          "6": {
+            "name": "A Bandida Cega",
+            "still_path": "https://image.tmdb.org/t/p/original/ouMgUBM6duJ4cS3jXm2rUomz5X.jpg"
+          },
+          "7": {
+            "name": "Zuko Sozinho",
+            "still_path": "https://image.tmdb.org/t/p/original/8KNbkm7kniSrdH4Ye07vUd6z8hC.jpg"
+          },
+          "8": {
+            "name": "A Caçada",
+            "still_path": "https://image.tmdb.org/t/p/original/jM4D3ngfBqV1VzQeHKOadjT4qxG.jpg"
+          },
+          "9": {
+            "name": "Trabalho Amargo",
+            "still_path": "https://image.tmdb.org/t/p/original/56Uya5iHbyRjSXvWIN1P6eAQSfc.jpg"
+          },
+          "10": {
+            "name": "A Biblioteca",
+            "still_path": "https://image.tmdb.org/t/p/original/fvAu7bhOFyI9HEt1Msp0WutlILb.jpg"
+          },
+          "11": {
+            "name": "O Deserto",
+            "still_path": "https://image.tmdb.org/t/p/original/1iJoEqtFi6v0fj3dNmiQRh05L5H.jpg"
+          },
+          "12": {
+            "name": "A Passagem da Serpente",
+            "still_path": "https://image.tmdb.org/t/p/original/1OmMINcc4KaNBJmuswLq2ee3VXF.jpg"
+          },
+          "13": {
+            "name": "A Broca",
+            "still_path": "https://image.tmdb.org/t/p/original/oinuOajlGzfwvcpmXyPE15IwfTL.jpg"
+          },
+          "14": {
+            "name": "A Cidade de Muros e Segredos",
+            "still_path": "https://image.tmdb.org/t/p/original/ewTBqdyYruMREGkKbMZysZ0QgoG.jpg"
+          },
+          "15": {
+            "name": "As Histórias de Ba Sing Se",
+            "still_path": "https://image.tmdb.org/t/p/original/aJIcdw8ZYTwfvBZrca2VVTGHWEG.jpg"
+          },
+          "16": {
+            "name": "Os Dias Perdidos do Appa",
+            "still_path": "https://image.tmdb.org/t/p/original/hem0BVH2mXx71Xf79RolSFLzeJV.jpg"
+          },
+          "17": {
+            "name": "Lago Laogai",
+            "still_path": "https://image.tmdb.org/t/p/original/cdrc7Caz9VabYfBl9bH9R93wk4j.jpg"
+          },
+          "18": {
+            "name": "O Rei da Terra",
+            "still_path": "https://image.tmdb.org/t/p/original/y4UHFyv67j6sf1wxvGljl5kpoKU.jpg"
+          },
+          "19": {
+            "name": "O Guru",
+            "still_path": "https://image.tmdb.org/t/p/original/49ED3hLwNq6sibzazGv656CrLEW.jpg"
+          },
+          "20": {
+            "name": "As Encruzilhadas do Destino",
+            "still_path": "https://image.tmdb.org/t/p/original/5Ix70WNv3rqYv0AVWPifE7euOq4.jpg"
+          }
+        }
+      },
+      "3": {
+        "name": "Livro 3: Fogo",
+        "poster_path": "https://image.tmdb.org/t/p/original/zbzA7LwbumWg7y4O3vukU7wB3UM.jpg",
+        "episodes": {
+          "1": {
+            "name": "O Despertar",
+            "still_path": "https://image.tmdb.org/t/p/original/4bucff7ht2AkY6mAVgYMsJPVxo7.jpg"
+          },
+          "2": {
+            "name": "A Faixa de Cabeça",
+            "still_path": "https://image.tmdb.org/t/p/original/2b5qDWFIxJDlv2d7FLPd9IDwdnk.jpg"
+          },
+          "3": {
+            "name": "A Dama Pintada",
+            "still_path": "https://image.tmdb.org/t/p/original/jIOrXmDp5YcCwPoeaw6MGLU1rfd.jpg"
+          },
+          "4": {
+            "name": "O Mestre de Sokka",
+            "still_path": "https://image.tmdb.org/t/p/original/2cjFSKxFHOqj0TpAnd4SqHjQ5G2.jpg"
+          },
+          "5": {
+            "name": "A Praia",
+            "still_path": "https://image.tmdb.org/t/p/original/8OKDuNidwMMMgakf67c8tCX3I2C.jpg"
+          },
+          "6": {
+            "name": "Avatar e o Senhor do Fogo",
+            "still_path": "https://image.tmdb.org/t/p/original/sFZ1uE6Kl50PRt2yGaGdKTay4gA.jpg"
+          },
+          "7": {
+            "name": "A Fugitiva",
+            "still_path": "https://image.tmdb.org/t/p/original/8gymKiOEJNYZPVScLRVUhNuYgCj.jpg"
+          },
+          "8": {
+            "name": "A Manipuladora de Fantoches",
+            "still_path": "https://image.tmdb.org/t/p/original/d1ECriFq8qpttMnHwrAVewSq6IF.jpg"
+          },
+          "9": {
+            "name": "Pesadelos e Devaneios",
+            "still_path": "https://image.tmdb.org/t/p/original/wiMuXVUPqSJFmny7Z6eqgZeRicn.jpg"
+          },
+          "10": {
+            "name": "O Dia do Sol Negro - Parte 1: A Invasão",
+            "still_path": "https://image.tmdb.org/t/p/original/njLvVlI4HzQtxFYNG5G2LPpZJqF.jpg"
+          },
+          "11": {
+            "name": "O Dia do Sol Negro - Parte 2: O Eclipse",
+            "still_path": "https://image.tmdb.org/t/p/original/8IyCdPVbGeS6bO8Ij2EVd8oiUwm.jpg"
+          },
+          "12": {
+            "name": "O Templo do Ar do Oeste",
+            "still_path": "https://image.tmdb.org/t/p/original/k6BAVhHNN5JEvbvwK35wXUhxcFv.jpg"
+          },
+          "13": {
+            "name": "Os Mestres da Dominação de Fogo",
+            "still_path": "https://image.tmdb.org/t/p/original/2xpOq1usmWDX9ia7cfBFmgqp8KO.jpg"
+          },
+          "14": {
+            "name": "A Rocha Fervente (Parte 1)",
+            "still_path": "https://image.tmdb.org/t/p/original/keivJ7wk45aLbg03AqEb9WgrYSz.jpg"
+          },
+          "15": {
+            "name": "A Rocha Fervente (Parte 2)",
+            "still_path": "https://image.tmdb.org/t/p/original/zPQ44AtLyDOvGXzKECQ3zmpEQun.jpg"
+          },
+          "16": {
+            "name": "Os Atacantes do Sul",
+            "still_path": "https://image.tmdb.org/t/p/original/uizw41KRd4OMaLur4SMHCciI0n3.jpg"
+          },
+          "17": {
+            "name": "Os Atores da Ilha Ember",
+            "still_path": "https://image.tmdb.org/t/p/original/uXawtxhXIs9zhkQ7CtnmHZvGwpy.jpg"
+          },
+          "18": {
+            "name": "O Cometa de Sozin - Parte 1: O Rei Fênix",
+            "still_path": "https://image.tmdb.org/t/p/original/ubU5kNjRCCEyXSfPOsRi62Zcqnf.jpg"
+          },
+          "19": {
+            "name": "O Cometa de Sozin - Parte 2: Os Velhos Mestres",
+            "still_path": "https://image.tmdb.org/t/p/original/51ceqvaljO0hqBjdDtmUzliHwVp.jpg"
+          },
+          "20": {
+            "name": "O Cometa de Sozin - Parte 3: Para o Inferno",
+            "still_path": "https://image.tmdb.org/t/p/original/jM6NzBbk5P22j3dWnIpOb7oTXeS.jpg"
+          },
+          "21": {
+            "name": "O Cometa de Sozin - Parte 4: O Avatar Aang",
+            "still_path": "https://image.tmdb.org/t/p/original/4a93Ud89t51LcvyiDTtWFRscUhE.jpg"
+          }
+        }
+      }
+    }
+  },
+  "1396": {
+    "name": "Breaking Bad: A Química do Mal",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "overview": "Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.",
+    "first_air_date": "2008-01-20",
+    "episode_run_time": "Desconhecido",
+    "vote_average": 8.9,
+    "number_of_seasons": 5,
+    "number_of_episodes": 62,
+    "created_by": [
+      "Vince Gilligan"
+    ],
+    "production_companies": [
+      "Sony Pictures Television",
+      "High Bridge Productions",
+      "Gran Via Productions"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "RJ Mitte",
+      "Dean Norris"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gc8PfyTqzqltKPW3X0cIVUGmagz.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",
+    "seasons": {
+      "1": {
+        "name": "Temporada 1",
+        "poster_path": "https://image.tmdb.org/t/p/original/sUbZ6TUTslNkM1f1PZclYVa60zv.jpg",
+        "episodes": {
+          "1": {
+            "name": "Piloto",
+            "still_path": "https://image.tmdb.org/t/p/original/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg"
+          },
+          "2": {
+            "name": "The Cat's in the Bag",
+            "still_path": "https://image.tmdb.org/t/p/original/xwQRVskT9IK7ktbrrWc2xoT4nPv.jpg"
+          },
+          "3": {
+            "name": "And the Bag's in the River",
+            "still_path": "https://image.tmdb.org/t/p/original/dLgiPZCVamFcaa7Gaqudrldj15h.jpg"
+          },
+          "4": {
+            "name": "Cancer Man",
+            "still_path": "https://image.tmdb.org/t/p/original/2UbRgW6apE4XPzhHPA726wUFyaR.jpg"
+          },
+          "5": {
+            "name": "Gray Matter",
+            "still_path": "https://image.tmdb.org/t/p/original/82G3wZgEvZLKcte6yoZJahUWBtx.jpg"
+          },
+          "6": {
+            "name": "Crazy Handful of Nothin'",
+            "still_path": "https://image.tmdb.org/t/p/original/rCCLuycNPL30W3BtuB8HafxEMYz.jpg"
+          },
+          "7": {
+            "name": "A No-Rough-Stuff-Type Deal",
+            "still_path": "https://image.tmdb.org/t/p/original/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg"
+          }
+        }
+      },
+      "2": {
+        "name": "Temporada 2",
+        "poster_path": "https://image.tmdb.org/t/p/original/wRx8yodtfA3ikOIxoJpa9u1s3JH.jpg",
+        "episodes": {
+          "1": {
+            "name": "Seven Thirty-Seven",
+            "still_path": "https://image.tmdb.org/t/p/original/6vMRIwd2WaGsRwR0z3C9BFEth6n.jpg"
+          },
+          "2": {
+            "name": "Grilled",
+            "still_path": "https://image.tmdb.org/t/p/original/43mpP5yxIyBsDeFOMb0WvUh0I4a.jpg"
+          },
+          "3": {
+            "name": "Bit by a Dead Bee",
+            "still_path": "https://image.tmdb.org/t/p/original/p69fPkpnnxUmevhupJiDeYfQxxl.jpg"
+          },
+          "4": {
+            "name": "Down",
+            "still_path": "https://image.tmdb.org/t/p/original/gMXeL0qcQZi5Tfd4UhnkRJeI9oa.jpg"
+          },
+          "5": {
+            "name": "Breakage",
+            "still_path": "https://image.tmdb.org/t/p/original/bPQxF63jhfT5eNYjhzuGEO7oMQg.jpg"
+          },
+          "6": {
+            "name": "Peekaboo",
+            "still_path": "https://image.tmdb.org/t/p/original/tfCuh20gNHGGF6A1te3NmiqML6D.jpg"
+          },
+          "7": {
+            "name": "Negro y Azul",
+            "still_path": "https://image.tmdb.org/t/p/original/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg"
+          },
+          "8": {
+            "name": "Better Call Saul",
+            "still_path": "https://image.tmdb.org/t/p/original/KmFdF23FtbPwwz3FJF2T885r2Z.jpg"
+          },
+          "9": {
+            "name": "4 Days Out",
+            "still_path": "https://image.tmdb.org/t/p/original/331AHaKegOuLZtN3kLvdrO8Yt9s.jpg"
+          },
+          "10": {
+            "name": "Over",
+            "still_path": "https://image.tmdb.org/t/p/original/wGobAJ0h54788xCMkRKaJTQMMtq.jpg"
+          },
+          "11": {
+            "name": "Mandala",
+            "still_path": "https://image.tmdb.org/t/p/original/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg"
+          },
+          "12": {
+            "name": "Phoenix",
+            "still_path": "https://image.tmdb.org/t/p/original/r7FWeTSN6F4M6OEsHXji2Z3462d.jpg"
+          },
+          "13": {
+            "name": "ABQ",
+            "still_path": "https://image.tmdb.org/t/p/original/xdSWJjptnLAvFnh5Is6iJPlH1ds.jpg"
+          }
+        }
+      },
+      "3": {
+        "name": "Temporada 3",
+        "poster_path": "https://image.tmdb.org/t/p/original/zUcStgaDD6FtwLIyzjfxzhcV45t.jpg",
+        "episodes": {
+          "1": {
+            "name": "Chega!",
+            "still_path": "https://image.tmdb.org/t/p/original/gOevWiZjFEeZgJBCQnWySzd6no9.jpg"
+          },
+          "2": {
+            "name": "Cavalo sem nome",
+            "still_path": "https://image.tmdb.org/t/p/original/mt9HtDly0I4vmxs5INljWt311IL.jpg"
+          },
+          "3": {
+            "name": "Eu transei com Ted",
+            "still_path": "https://image.tmdb.org/t/p/original/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg"
+          },
+          "4": {
+            "name": "Sinal verde",
+            "still_path": "https://image.tmdb.org/t/p/original/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg"
+          },
+          "5": {
+            "name": "Mas",
+            "still_path": "https://image.tmdb.org/t/p/original/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg"
+          },
+          "6": {
+            "name": "Ao pôr do sol",
+            "still_path": "https://image.tmdb.org/t/p/original/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg"
+          },
+          "7": {
+            "name": "Um minuto",
+            "still_path": "https://image.tmdb.org/t/p/original/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg"
+          },
+          "8": {
+            "name": "Eu vejo você",
+            "still_path": "https://image.tmdb.org/t/p/original/edBDR59bzVWdMtCawimRzOMgrlW.jpg"
+          },
+          "9": {
+            "name": "Kafkiano",
+            "still_path": "https://image.tmdb.org/t/p/original/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg"
+          },
+          "10": {
+            "name": "A mosca",
+            "still_path": "https://image.tmdb.org/t/p/original/vpXc5zctIc2N0PQif3fG0TGypaX.jpg"
+          },
+          "11": {
+            "name": "Abiquiu",
+            "still_path": "https://image.tmdb.org/t/p/original/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg"
+          },
+          "12": {
+            "name": "Medida pela metade",
+            "still_path": "https://image.tmdb.org/t/p/original/sX4gKwbbtjUjhAjyc0qdkZrM2A3.jpg"
+          },
+          "13": {
+            "name": "Medida completa",
+            "still_path": "https://image.tmdb.org/t/p/original/mDUs18asTVVfqd56scRQ7W9r781.jpg"
+          }
+        }
+      },
+      "4": {
+        "name": "Temporada 4",
+        "poster_path": "https://image.tmdb.org/t/p/original/b44ldObzYhfBr2bV0lMnr9oJHr8.jpg",
+        "episodes": {
+          "1": {
+            "name": "Estilete",
+            "still_path": "https://image.tmdb.org/t/p/original/2g6dLvOrLE7tpJatonCchLDkDyF.jpg"
+          },
+          "2": {
+            "name": "38 cano curto",
+            "still_path": "https://image.tmdb.org/t/p/original/ra0R3q9jEOObo6gspjYcbqPmIM.jpg"
+          },
+          "3": {
+            "name": "Casa em exposição",
+            "still_path": "https://image.tmdb.org/t/p/original/5zQ8TlD9a3TxrhlEEt3TxeFOQh2.jpg"
+          },
+          "4": {
+            "name": "Frases curtas",
+            "still_path": "https://image.tmdb.org/t/p/original/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg"
+          },
+          "5": {
+            "name": "Espingarda",
+            "still_path": "https://image.tmdb.org/t/p/original/cIpk1YHRcySKOET8qUfs2JC3QAy.jpg"
+          },
+          "6": {
+            "name": "Encurralado",
+            "still_path": "https://image.tmdb.org/t/p/original/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg"
+          },
+          "7": {
+            "name": "Cachorro problemático",
+            "still_path": "https://image.tmdb.org/t/p/original/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg"
+          },
+          "8": {
+            "name": "Hermanos",
+            "still_path": "https://image.tmdb.org/t/p/original/jwGeSa4lw93UqvxoII5kb4nko1b.jpg"
+          },
+          "9": {
+            "name": "Escuta",
+            "still_path": "https://image.tmdb.org/t/p/original/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg"
+          },
+          "10": {
+            "name": "Saúde",
+            "still_path": "https://image.tmdb.org/t/p/original/dBrs0Npmn76g81yel2mjK7mTaOj.jpg"
+          },
+          "11": {
+            "name": "Cave",
+            "still_path": "https://image.tmdb.org/t/p/original/xMR8o7N4ZBacim1druJ6PanTlPQ.jpg"
+          },
+          "12": {
+            "name": "Hora do fim",
+            "still_path": "https://image.tmdb.org/t/p/original/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg"
+          },
+          "13": {
+            "name": "Confronto",
+            "still_path": "https://image.tmdb.org/t/p/original/Apl61kYZF2zQlUMh13t8zmUD7Vr.jpg"
+          }
+        }
+      },
+      "5": {
+        "name": "Temporada 5",
+        "poster_path": "https://image.tmdb.org/t/p/original/igAdP4mObNTZRzGrgQfUEKPlXou.jpg",
+        "episodes": {
+          "1": {
+            "name": "Viva livre ou morra",
+            "still_path": "https://image.tmdb.org/t/p/original/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg"
+          },
+          "2": {
+            "name": "Madrigal",
+            "still_path": "https://image.tmdb.org/t/p/original/gf7ipzUCJq20Oxrt3aOafUrjgFU.jpg"
+          },
+          "3": {
+            "name": "Hazard Pay",
+            "still_path": "https://image.tmdb.org/t/p/original/l84H1dZVkQGgFVomKHc67RKaEC2.jpg"
+          },
+          "4": {
+            "name": "Cinquenta e um",
+            "still_path": "https://image.tmdb.org/t/p/original/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg"
+          },
+          "5": {
+            "name": "Evoluir",
+            "still_path": "https://image.tmdb.org/t/p/original/ay9uj9CMQJezaB407JCPMDYSptK.jpg"
+          },
+          "6": {
+            "name": "Aquisição",
+            "still_path": "https://image.tmdb.org/t/p/original/vleQ03cr0fb5DBmvLY0WGxfs8wj.jpg"
+          },
+          "7": {
+            "name": "Diga meu nome",
+            "still_path": "https://image.tmdb.org/t/p/original/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg"
+          },
+          "8": {
+            "name": "Planando sobre tudo",
+            "still_path": "https://image.tmdb.org/t/p/original/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg"
+          },
+          "9": {
+            "name": "Dinheiro sujo de sangue",
+            "still_path": "https://image.tmdb.org/t/p/original/uvxl7TMG4dZG9D5bzzQzKqfUdnD.jpg"
+          },
+          "10": {
+            "name": "Enterrado",
+            "still_path": "https://image.tmdb.org/t/p/original/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg"
+          },
+          "11": {
+            "name": "Confissões",
+            "still_path": "https://image.tmdb.org/t/p/original/uEuQEdQiWJc0DRDVkqRG9HaCsKY.jpg"
+          },
+          "12": {
+            "name": "Cão raivoso",
+            "still_path": "https://image.tmdb.org/t/p/original/5VkI8lm7Xcmlxk92pWRyW341d70.jpg"
+          },
+          "13": {
+            "name": "To'hajiilee",
+            "still_path": "https://image.tmdb.org/t/p/original/lunoCRprYl0jEJEkGTS8v6eFq1n.jpg"
+          },
+          "14": {
+            "name": "Ozymandias",
+            "still_path": "https://image.tmdb.org/t/p/original/k80r5JYO4LLrPJbWDXmlg7IxRMI.jpg"
+          },
+          "15": {
+            "name": "Estado granito",
+            "still_path": "https://image.tmdb.org/t/p/original/lCVFehyLhc4qlwTxBwbKpYvc3BS.jpg"
+          },
+          "16": {
+            "name": "Felina",
+            "still_path": "https://image.tmdb.org/t/p/original/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg"
+          }
+        }
+      }
+    }
+  },
 };

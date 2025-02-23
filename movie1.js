@@ -1,4 +1,4 @@
-const movies = [
+const movies1 = [
 
 {
     "id": 762509,

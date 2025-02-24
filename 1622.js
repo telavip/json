@@ -1,5 +1,7 @@
 window.seriesData = {
 "1622": {
+        id: "1622",
+        slug: "sobrenatural", // Slug da série
     "name": "Sobrenatural",
     "genres": [
       "Drama",

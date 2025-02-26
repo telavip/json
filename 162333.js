@@ -9,7 +9,7 @@ window.seriesData = {
         "episode_run_time": [
             127
         ],
-        "vote_average": "7.8",
+        "vote_average": 7.8,
         "number_of_seasons": 1,
         "number_of_episodes": 1,
         "created_by": [
